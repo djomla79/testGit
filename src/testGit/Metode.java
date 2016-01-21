@@ -14,5 +14,10 @@ public class Metode {
 		}
 	}
 	
+	/** Treci pokusaj... */
+	public static void printSyso() {
+		System.out.println("Printing...");
+	}
+	
 	
 }
