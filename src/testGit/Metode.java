@@ -7,4 +7,5 @@ public class Metode {
 		System.out.println(text);
 	}
 	
+	
 }
