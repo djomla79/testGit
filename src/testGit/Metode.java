@@ -4,7 +4,7 @@ public class Metode {
 	
 	public static void printSyso(String text) {
 		
-			System.out.println("Printing...");
+			System.out.println(text);
 		}
 	
 }
