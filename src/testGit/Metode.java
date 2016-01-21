@@ -7,5 +7,12 @@ public class Metode {
 		System.out.println(text);
 	}
 	
+	/** Print numbers... */
+	public static void printNumbers(int[] numbers) {
+		for(int i = 0; i < numbers.length; i++) {
+			System.out.print(numbers[i] + " ");
+		}
+	}
+	
 	
 }
