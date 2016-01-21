@@ -12,6 +12,10 @@ public class Test {
 		
 		String text = input.nextLine();
 		
+		int[] brojevi = {1, 3, 5, 7, 9};
+		
+		Metode.printNumbers(brojevi);
+		
 		Metode.printSyso(text);
 		
 		input.close();
