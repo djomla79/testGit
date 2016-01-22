@@ -18,6 +18,9 @@ public class Test {
 		
 		Metode.printSyso(text);
 		
+		
+		System.out.println("DA SE MALO ZACINI!!!! BUAAHAHAHAHA\nRIJESI OVOOOVOVO");
+		
 		input.close();
 		
 	}
