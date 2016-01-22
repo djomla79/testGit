@@ -18,6 +18,9 @@ public class Test {
 		
 		Metode.printSyso(text);
 		
+		System.out.println("Sta je ono Novo? \n");
+		Metode.newMethod();
+		
 		input.close();
 		
 	}
