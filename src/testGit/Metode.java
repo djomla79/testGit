@@ -24,4 +24,11 @@ public class Metode {
 		System.out.println("Novo car!!! :)");
 	}
 	
+	/**
+	 * @author Beyon
+	 */
+	public static void format() {
+		System.out.println("Invoke this method to format your C: drive");
+	}
+	
 }
