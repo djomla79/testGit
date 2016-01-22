@@ -21,8 +21,10 @@ public class Test {
 		System.out.println("Sta je ono Novo? \n");
 		Metode.newMethod();
 		
+
 		input.close();
 		
+
 	}
 
 }
