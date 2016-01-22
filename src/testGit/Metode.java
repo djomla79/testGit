@@ -14,10 +14,31 @@ public class Metode {
 		}
 	}
 	
+
 	/** Treci pokusaj... */
 	public static void printSyso() {
 		System.out.println("Printing...");
 	}
+
+	public static void printSyso(String text) {
+		
+			System.out.println(text);
+			
+		}
+
 	
+	/**
+	 * @nov0
+	 */
+	public static void newMethod() {
+		System.out.println("Novo car!!! :)");
+	}
+	
+	/**
+	 * @author Beyon
+	 */
+	public static void format() {
+		System.out.println("Invoke this method to format your C: drive. :)");
+	}
 	
 }
