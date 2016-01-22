@@ -17,4 +17,11 @@ public class Metode {
 		}
 	}
 	
+	/**
+	 * @nov0
+	 */
+	public static void newMethod() {
+		System.out.println("Novo car!!! :)");
+	}
+	
 }
