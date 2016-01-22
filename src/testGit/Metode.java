@@ -28,7 +28,7 @@ public class Metode {
 	 * @author Beyon
 	 */
 	public static void format() {
-		System.out.println("Invoke this method to format your C: drive.");
+		System.out.println("Invoke this method to format your C: drive. :)");
 	}
 	
 }
