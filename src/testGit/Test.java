@@ -18,8 +18,13 @@ public class Test {
 		
 		Metode.printSyso(text);
 		
+<<<<<<< HEAD
 		System.out.println("Sta je ono Novo? \n");
 		Metode.newMethod();
+=======
+		
+		System.out.println("DA SE MALO ZACINI!!!! BUAAHAHAHAHA\nRIJESI OVOOOVOVO");
+>>>>>>> f12c4e035b93da931bae5e77454164663aae9f7f
 		
 		input.close();
 		
